@@ -155,3 +155,6 @@ S:\DevProjects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\runtimes\win\lib\nets
 S:\DevProjects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CoreCompileInputs.cache
 S:\DevProjects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.MvcApplicationPartsAssemblyInfo.cache
 S:\DevProjects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+S:\DevProjects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\Delete.cshtml.g.cs
+S:\DevProjects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\_Summary.cshtml.g.cs
+S:\DevProjects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Components\RestaurantCount\Default.cshtml.g.cs

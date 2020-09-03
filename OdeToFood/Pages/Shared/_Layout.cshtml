@@ -29,6 +29,11 @@
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
+            <footer>
+                <vc:restaurant-count></vc:restaurant-count>
+                @RenderSection("footer", required: false)
+                <p>&copy; 2020 - OdeToFood</p>
+            </footer>
         </main>
     </div>
 
